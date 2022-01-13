@@ -1,1 +1,19 @@
-.venv
+# Virtual Environment
+.venv/
+venv/
+
+# Environment Variables
+.env
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+
+# PyCharm IDE
+.idea/
+*.iml
+
+# Other cache or temporary files
+*.log
+*.DS_Store
+
